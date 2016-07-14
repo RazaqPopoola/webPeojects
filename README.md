@@ -1,2 +1,2 @@
-# webPeojects
+# webProjects
 Creating Personal Web-Sites
